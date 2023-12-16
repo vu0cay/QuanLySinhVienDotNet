@@ -1,4 +1,4 @@
-9B2203594,Nguyen Hoang Vu,3.65
+B2203594,Nguyen Hoang Vu,3.65
 B2203595,Tran Hoang Than,3.65
 B2203592,Nguyen Hoang Khang,3.65
 B2203585,Tran Thanh Thien,3.65
