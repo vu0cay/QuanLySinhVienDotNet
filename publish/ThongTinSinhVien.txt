@@ -1,12 +1,11 @@
-B2203594,Nguyen Hoang Vu,3.65
-B2203595,Tran Hoang Than,3.65
-B2203592,Nguyen Hoang Khang,3.65
-B2203585,Tran Thanh Thien,3.65
-B2203523,Pham Trung Hieu,3.65
-B2203577,Pham Chi Cuong,3.65
-B2203598,Lam Cong Khanh,3.65
-B2203333,Nguyen Thanh Danh,3.65
-B1707297,#K' Ngoc Thi,3.00
+B2203594,Nguyen Hoang Vu,4.0
+B2203595,Tran Hoang Than,3.5
+B2203592,Nguyen Hoang Khang,2.8
+B2203585,Tran Thanh Thien,1.2
+B2203523,Pham Trung Hieu,1.0
+B2203577,Pham Chi Cuong,0.9
+B2203598,Lam Cong Khanh,3.33
+B1707297,K' Ngoc Thi,3.00
 B2000002,Nguyen Minh Duc,3.70
 B2001041,Ha Duy Bach,2.70
 B2001879,Nguyen Quang Vinh,3.30
@@ -19,7 +18,7 @@ B2205556,Le Ha Anh Thy,3.50
 B2207074,Nguyen Ba Hong Duong,2.60
 B2105663,Ton Thi Ngoc Chau,3.20
 B2207073,Nguyen Khanh Duy,3.20
-B2205397,Vuu Nhat Dinh,3.80
+B2205397,Vuu Nhat Dinh,2.80
 B2107766,Nguyen Hai Dang,3.60
 B2107768,Lu Trieu Hao,4.00
 B2205534,Pham Thi Ngoc Han,3.70
@@ -59,5 +58,5 @@ B2205560,Le Nguyen Yen Vy,3.60
 B2201765,Tran Anh Vang,3.60
 B2203794,Nguyen Vuong Kha Van,3.70
 B2203594,Nguyen Hoang Vu,3.60
-B2205432,Trinh Truc Yen,0.00
-B2205512,Nguyen Thi Anh,0.00
+B2205432,Vuu Nhat Yen,0.00
+B2205512,Nguyen Thi Hong Tham,0.00
